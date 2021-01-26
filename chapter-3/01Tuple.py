@@ -25,7 +25,6 @@ print(a)
 # Saat lu unpack pake 3 variabel sedangkan tupelnya 5 elemen
 # maka sisanya bakal kesimpan ke variabel terakhir oghey mamang?
 # jangan lupa sisanya dikasih tanda bintang oghey
-
 tup2 = (10,20,30,40,50,60,60)
 a2,b2, *sisanye = tup2
 print(sisanye)
